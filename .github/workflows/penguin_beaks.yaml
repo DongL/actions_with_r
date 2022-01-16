@@ -1,4 +1,4 @@
-name: penguins-have-long-noses
+name: penguins-have-long-nosess
 on: [push]
 jobs:
   run:
